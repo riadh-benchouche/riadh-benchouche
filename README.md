@@ -4,13 +4,13 @@ I'm a passionate full-stack web developer based in Paris 🥖. Currently, I'm a 
 
 ## 🚀 Technologies & Tools
 
-- **Laravel**: ![Laravel Logo](icons/laravel.png) PHP framework for building robust web applications.
-- **Vue.js**: ![Vue.js Logo](icons/vue.png) Progressive JavaScript framework for building user interfaces.
-- **React**: ![React Logo](icons/react.png) A JavaScript library for building user interfaces.
-- **Next.js**: ![Next.js Logo](icons/next.png) React framework for building static and dynamic websites.
-- **Nuxt.js**: ![Nuxt.js Logo](icons/nuxt.png) Vue framework for building server-side rendered applications.
-- **Tailwind CSS**: ![Tailwind CSS Logo](icons/tailwind.png) Utility-first CSS framework for rapid UI development.
-- **Docker**: ![Docker Logo](icons/docker.png) Platform for developing, shipping, and running applications in containers.
+- **Laravel**: <img src="icons/laravel.png" alt="Laravel Logo" width="40"> PHP framework for building robust web applications.
+- **Vue.js**: <img src="icons/vue.png" alt="Vue.js Logo" width="40"> Progressive JavaScript framework for building user interfaces.
+- **React**: <img src="icons/react.png" alt="React Logo" width="40"> A JavaScript library for building user interfaces.
+- **Next.js**: <img src="icons/next.png" alt="Next.js Logo" width="40"> React framework for building static and dynamic websites.
+- **Nuxt.js**: <img src="icons/nuxt.png" alt="Nuxt.js Logo" width="40"> Vue framework for building server-side rendered applications.
+- **Tailwind CSS**: <img src="icons/tailwind.png" alt="Tailwind CSS Logo" width="40"> Utility-first CSS framework for rapid UI development.
+- **Docker**: <img src="icons/docker.png" alt="Docker Logo" width="40"> Platform for developing, shipping, and running applications in containers.
 
 ## 📚 About Me
 
