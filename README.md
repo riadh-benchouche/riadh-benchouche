@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Riadh Benchouche!
 
 I'm a passionate full-stack web developer based in Paris 🥖. Currently, I'm a student at [ESGI School](https://www.esgi.fr/), learning and building cool things with technology stacks that I love.
 
